@@ -1,0 +1,8 @@
+README
+
+https://apps.dev.microsoft.com/#/appList
+
+PBICatBot
+
+AppID: 62b67c7c-199f-4a48-8c62-e201a15fb1c9
+Pwd: MARU7AkYCyDWz4iiRs1D3nA
